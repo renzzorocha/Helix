@@ -35,8 +35,6 @@ Helix
 ## 🚀 Tecnologias
 - **C# 10**
 - **.NET 9 SDK**
-- **Markdown** para Documentação
-
 ---
 
 ## ▶️ Como Executar
