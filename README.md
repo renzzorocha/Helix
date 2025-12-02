@@ -10,12 +10,10 @@
 ## 📖 Visão Geral
 - **Helix** é uma biblioteca em **C# / .NET 9** criada para estudar e catalogar algoritmos e estruturas de dados. <br> 
 - O repositório funciona como um _playground_ educacional: cada implementação vem acompanhada de exemplos de uso e documentação em Markdown para facilitar o aprendizado contínuo. <br> 
-- Todo o material teórico está na seção "Wiki" do repositório. <br>
-- Todo código feito está na seção "Code" do repositório. <br>
 
 ---
 
-## 📂 Estrutura de Pastas - Code
+## 📂 Estrutura de Pastas
 
 ```text
 Helix
@@ -33,14 +31,6 @@ Helix
 ├── README.md                     # Documentação em Markdown
 ```
 ---
-
-## 📂 Estrutura de Pastas - Wiki
-
-```text
-Helix.Wiki
-├── Recursividade
-          ├── Recursividade.md               # Documentação sobre Recursividade
-```
 
 ## 🚀 Tecnologias
 - **C# 10**
