@@ -53,23 +53,5 @@ dotnet run --project src/Helix.Playground
 
 ---
 
-## ⚙️ Contribuindo
-1. Faça um **fork** do projeto.  
-2. Crie uma branch:  
-```bash
-git checkout -b feature/minha-feature
-```
-3. Commit suas alterações:
-```bash
-git commit -m "feat: minha feature" (follow the semantic commit pattern please) 
-```
-4. Envie para o seu repositório:
-```bash
-git push origin feature/minha-feature
-```
-5. Abra um Pull Request.
-
----
-
 ## 📜 Licença
 Distribuído sob a licença MIT. Consulte o arquivo LICENSE.txt para mais informações.
